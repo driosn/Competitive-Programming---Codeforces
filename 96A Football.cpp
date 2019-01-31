@@ -3,7 +3,7 @@
 
 using namespace std;
 
-int main(){
+int main(){-
   string equipos;
   int jugador, contador = 0, maximo = 0;
   bool equipo_peligro;
